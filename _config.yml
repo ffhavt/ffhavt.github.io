@@ -1,0 +1,10 @@
+highlighter: rouge
+name: Fairview Farm Homeowners Association
+subtitle: Vermont
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
